@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovingObjectServer", "..\..\COLLAGE\00 SEMESTER 5\CEK\NetworkProgramming-master\MovingObjectServer\MovingObjectServer.csproj", "{E0D684B5-2335-4B7C-B237-B7D58F6A8D08}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovingObjectServer", "MovingObjectServer\MovingObjectServer.csproj", "{E0D684B5-2335-4B7C-B237-B7D58F6A8D08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovingObjectClient", "..\..\COLLAGE\00 SEMESTER 5\CEK\NetworkProgramming-master\MovingObjectClient\MovingObjectClient.csproj", "{473DE87C-B13D-4D08-831C-4971945608DD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovingObjectClient", "MovingObjectClient\MovingObjectClient.csproj", "{473DE87C-B13D-4D08-831C-4971945608DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
