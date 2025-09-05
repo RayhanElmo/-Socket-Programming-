@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "MovingObjectClient\\MovingObjectClient.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MovingObjectServer\\MovingObjectServer.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
